@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 [![Nico6719's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico6719&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico6719&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![1000011100](https://github.com/user-attachments/assets/00d7d185-457a-4646-bc08-c1f89c69e34b)
