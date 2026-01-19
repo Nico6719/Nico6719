@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=专注于技术探索;不断进取的开发者;正在努力学习新技能...)
 
 ### 📊 Github 统计数据
-### 📊 Github 统计数据
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=cn" />
