@@ -12,6 +12,11 @@
   <img height="170" src="https://streak-stats.demolab.com?user=Nico6719&theme=dark&locale=zh_cn" />
 </p>
 
+### 📈 最近活跃趋势
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico6719&theme=react-dark&area=true&hide_border=true" />
+</p>
+
 ### 🛠 常用技术栈
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
