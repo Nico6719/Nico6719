@@ -19,23 +19,12 @@
 
 ### 📊 Github 统计数据
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=cn&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=cn&layout=compact" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=cn" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=cn&layout=compact" />
+</p>>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nico6719&theme=dark&locale=zh_cn" />
 </p>
 
 ---
-
-### 🏆 荣誉奖杯
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nico6719&theme=onedark&column=4" />
-</p>
-
-</div>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet" alt="Views" />
-</p>
