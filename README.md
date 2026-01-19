@@ -1,13 +1,24 @@
-<div align="center">
-
 # 👋 你好，我是 Nico6719
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=专注于技术探索;不断进取的开发者;正在努力学习新技能...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=专注于技术探索;不断进取的开发者;正在努力学习新技能...)
 
----
+### 📊 Github 统计数据
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=cn" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=cn&layout=compact" />
+</p>
+
+<p align="left">
+  <img height="170" src="https://streak-stats.demolab.com?user=Nico6719&theme=dark&locale=zh_cn" />
+</p>
+
+### 🏆 荣誉奖杯
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nico6719&theme=onedark&column=4&margin-w=15" />
+</p>
 
 ### 🛠 常用技术栈
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -16,15 +27,4 @@
 </p>
 
 ---
-
-### 📊 Github 统计数据
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=cn" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=cn&layout=compact" />
-</p>>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nico6719&theme=dark&locale=zh_cn" />
-</p>
-
----
+![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet)
