@@ -7,7 +7,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=cn" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=cn&layout=compact" />
-  <img height="165" width="49115" src="https://streak-stats.demolab.com?user=Nico6719&theme=dark&locale=zh_cn" />
 </p>
 
 ### 📈 最近活跃趋势
