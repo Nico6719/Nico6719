@@ -1,6 +1,4 @@
-# 👋 你好，我是 Nico6719
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=专注于技术探索;不断进取的开发者;正在努力学习新技能...)
-
+# 👋 Hi，I'm Nico6719
 ### 📊 Github 统计数据
 
 <p align="center">
