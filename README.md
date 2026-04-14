@@ -8,12 +8,14 @@
 
 ### 🧊 3D 贡献图
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Nico6719&theme=dark" alt="3D Contrib" />
+  <img src="https://gh-chart.3081.workers.dev/Nico6719" alt="3D Contrib" />
 </p>
 
 ### 🎮 Steam 游戏状态
 <p align="center">
-  <img src="https://steam-card.vercel.app/api?steamid=Nico6719" alt="Steam Card" />
+  <a href="https://steamcommunity.com/id/Nico6719/">
+    <img src="https://github-readme-steam-stats.vercel.app/api/card?steamid=76561199256902356&theme=dark" alt="Steam Card" />
+  </a>
 </p>
 
 ### 📈 最近活跃趋势
