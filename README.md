@@ -24,5 +24,3 @@
 ![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social)](https://github.com/Nico6719)
 [![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social)](https://github.com/Nico6719)
-<!-- 底部波浪图 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d1b69&height=120&section=footer)
