@@ -6,15 +6,17 @@
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=zh_Hans&layout=compact" />
 </p>
 
-### 🧊 3D 贡献图
+### 🧊 3D 贡献图 (GitHub Skyline )
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
+  <a href="https://skyline.github.com/Nico6719/2025">
+    <img src="https://skyline.github.com/Nico6719/2025.png" alt="GitHub Skyline" width="600" />
+  </a>
 </p>
 
-### 🎮 Steam 游戏状态
+### 🎮 Steam 游戏状态 (稳定版 )
 <p align="center">
   <a href="https://steamcommunity.com/id/Nico6719/">
-    <img src="https://steam-card.vercel.app/api?steamid=76561199256902356" alt="Steam Card" />
+    <img src="https://github-readme-steam-stats.vercel.app/api/card?steamid=76561199256902356&theme=dark" alt="Steam Card" />
   </a>
 </p>
 
