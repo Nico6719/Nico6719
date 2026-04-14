@@ -2,8 +2,8 @@
 ### 📊 Github 统计数据
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=cn" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=cn&layout=compact" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=zh_Hans" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=zh_Hans&layout=compact" />
 </p>
 
 ### 📈 最近活跃趋势
@@ -24,4 +24,3 @@
 ![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social)](https://github.com/Nico6719)
 [![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social)](https://github.com/Nico6719)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nico6719&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
