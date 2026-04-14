@@ -24,3 +24,5 @@
 ![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social)](https://github.com/Nico6719)
 [![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social)](https://github.com/Nico6719)
+![3D Contrib](https://raw.githubusercontent.com/omarsinan/3DContributionGraph/main/output-3d-contrib/3d-contrib.svg)
+![Steam Card](https://steam-card.vercel.app/api?steamid=你的SteamID)
