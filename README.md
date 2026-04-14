@@ -6,6 +6,16 @@
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=zh_Hans&layout=compact" />
 </p>
 
+### 🧊 3D 贡献图
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Nico6719&theme=dark" alt="3D Contrib" />
+</p>
+
+### 🎮 Steam 游戏状态
+<p align="center">
+  <img src="https://steam-card.vercel.app/api?steamid=Nico6719" alt="Steam Card" />
+</p>
+
 ### 📈 最近活跃趋势
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico6719&theme=react-dark&area=true&hide_border=true" />
