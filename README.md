@@ -8,7 +8,9 @@
 
 ### 🧊 3D 贡献图
 <p align="center">
-  <img src="https://gh-chart.3081.workers.dev/Nico6719" alt="3D Contrib" />
+  <a href="https://skyline.github.com/Nico6719/2025">
+    <img src="https://skyline.github.com/Nico6719/2025.png" alt="3D Contrib" width="600" />
+  </a>
 </p>
 
 ### 🎮 Steam 游戏状态
