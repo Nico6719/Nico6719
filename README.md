@@ -24,3 +24,4 @@
 ![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social)](https://github.com/Nico6719)
 [![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social)](https://github.com/Nico6719)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nico6719&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
