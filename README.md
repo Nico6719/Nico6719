@@ -1,9 +1,21 @@
 # 👋 Hi，I'm Nico6719
-### 📊 Github 统计数据
 
+### 📊 Github 统计数据
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=zh_Hans" />
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=zh_Hans&layout=compact" />
+</p>
+
+### 🧊 3D 贡献图
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
+</p>
+
+### 🎮 Steam 游戏状态
+<p align="center">
+  <a href="https://steamcommunity.com/id/Nico6719/">
+    <img src="https://steam-card.vercel.app/api?steamid=76561199256902356" alt="Steam Card" />
+  </a>
 </p>
 
 ### 📈 最近活跃趋势
@@ -21,6 +33,6 @@
 </p>
 
 ---
-![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social)](https://github.com/Nico6719)
-[![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social)](https://github.com/Nico6719)
+![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet )
+[![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social )](https://github.com/Nico6719 )
+[![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social )](https://github.com/Nico6719 )
