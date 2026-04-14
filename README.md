@@ -6,20 +6,6 @@
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=zh_Hans&layout=compact" />
 </p>
 
-### 🧊 3D 贡献图 (GitHub Skyline )
-<p align="center">
-  <a href="https://skyline.github.com/Nico6719/2025">
-    <img src="https://skyline.github.com/Nico6719/2025.png" alt="GitHub Skyline" width="600" />
-  </a>
-</p>
-
-### 🎮 Steam 游戏状态 (稳定版 )
-<p align="center">
-  <a href="https://steamcommunity.com/id/Nico6719/">
-    <img src="https://github-readme-steam-stats.vercel.app/api/card?steamid=76561199256902356&theme=dark" alt="Steam Card" />
-  </a>
-</p>
-
 ### 📈 最近活跃趋势
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico6719&theme=react-dark&area=true&hide_border=true" />
