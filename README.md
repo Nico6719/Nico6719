@@ -1,27 +1,98 @@
-# 👋 Hi，I'm Nico6719
+<div align="center">
 
-### 📊 Github 统计数据
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nico6719&show_icons=true&theme=dark&locale=zh_Hans" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=dark&locale=zh_Hans&layout=compact" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Nico6719&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Minecraft%20Bedrock%20Plugin%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-### 📈 最近活跃趋势
-<p align="left">
-  <img src="https://ghactivity.mrayush.me/graph?username=Nico6719&theme=react-dark&area=true&hide_border=true" />
-</p>
+<a href="https://github.com/Nico6719">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=YEssential+%E4%BD%9C%E8%80%85;LSE+%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91;JavaScript+%2F+Python+%2F+TypeScript" />
+</a>
 
+<br/>
 
-### 🛠 常用技术栈
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Nico6719&color=8A2BE2&style=for-the-badge&label=Views" />
+<img src="https://img.shields.io/github/followers/Nico6719?style=for-the-badge&color=36BCF7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/stars/Nico6719?style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" />
 
----
-![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet )
-[![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social )](https://github.com/Nico6719 )
-[![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social )](https://github.com/Nico6719 )
+</div>
+
+<br/>
+
+## 📊 GitHub 统计
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nico6719&show_icons=true&theme=tokyonight&locale=zh_Hans&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico6719&theme=tokyonight&locale=zh_Hans&layout=compact&hide_border=true&bg_color=1a1b27&langs_count=8" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nico6719&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nico6719&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nico6719&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+## 📈 最近活跃趋势
+
+<div align="center">
+
+<img width="100%" src="https://ghactivity.mrayush.me/graph?username=Nico6719&theme=tokyonight&area=true&hide_border=true&radius=12" />
+
+</div>
+
+<br/>
+
+## 🔥 连续贡献
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Nico6719&theme=tokyonight&hide_border=true&background=1a1b27&locale=zh_Hans&date_format=Y%5Bn%5D%5Bm%5D%5Bd%5D" />
+
+</div>
+
+<br/>
+
+## 🛠 技术栈
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🚀 主要项目
+
+<div align="center">
+
+<a href="https://github.com/Nico6719/YEssential">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nico6719&repo=YEssential&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Nico6719/NEssential">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nico6719&repo=NEssential&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer" width="100%" />
+
+</div>
