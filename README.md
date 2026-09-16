@@ -1,14 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Nico6719&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
-
-<a href="https://github.com/Nico6719">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Minecraft+Bedrock+Server+Plugin+Development;JavaScript+%2F+TypeScript+%2F+Python+%2F+C%2B%2B;LeviLamina+%C2%B7+LSE+%C2%B7+Endstone" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Nico6719&color=8A2BE2&style=for-the-badge&label=Views" /> <img src="https://img.shields.io/github/followers/Nico6719?style=for-the-badge&color=36BCF7&labelColor=1a1b27&logo=github" /> <img src="https://img.shields.io/github/stars/Nico6719?style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" />
 
 </div>
 
