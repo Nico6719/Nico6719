@@ -74,22 +74,7 @@
 
 </div>
 
-<br/>
 
-## 🚀 主要项目
-
-<div align="center">
-
-<a href="https://github.com/Nico6719/YEssential">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nico6719&repo=YEssential&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/Nico6719/NEssential">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nico6719&repo=NEssential&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
