@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://ghactivity.mrayush.me/graph?username=Nico6719&bg_color=1a1b27&color=c0caf5&title_color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&radius=12" />
+<img width="98%" src="https://ghactivity.mrayush.me/graph?username=Nico6719&bg_color=1a1b27&color=c0caf5&title_color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&radius=12" />
 
 </div>
 
