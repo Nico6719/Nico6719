@@ -34,16 +34,6 @@
 
 <br/>
 
-## 🔥 连续贡献
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Nico6719&theme=tokyonight&hide_border=true&background=1a1b27&locale=zh_Hans" />
-
-</div>
-
-<br/>
-
 ## 🛠 技术栈
 
 <div align="center">
