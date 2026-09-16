@@ -1,13 +1,6 @@
-
-
 # 👋 Hi，I'm Nico6719
-
-<img src="https://komarev.com/ghpvc/?username=Nico6719&color=8A2BE2&style=for-the-badge&label=Views" /> <img src="https://img.shields.io/github/followers/Nico6719?style=for-the-badge&color=36BCF7&labelColor=1a1b27&logo=github" /> <img src="https://img.shields.io/github/stars/Nico6719?style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" />
-
 </div>
-
 <br/>
-
 ## 📊 GitHub 统计
 
 <div align="center">
@@ -44,4 +37,6 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
+
+<img src="https://komarev.com/ghpvc/?username=Nico6719&color=8A2BE2&style=for-the-badge&label=Views" /> <img src="https://img.shields.io/github/followers/Nico6719?style=for-the-badge&color=36BCF7&labelColor=1a1b27&logo=github" /> <img src="https://img.shields.io/github/stars/Nico6719?style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" />
 </div>
