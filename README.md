@@ -1,4 +1,9 @@
 
+
+# 👋 Hi，I'm Nico6719
+
+<img src="https://komarev.com/ghpvc/?username=Nico6719&color=8A2BE2&style=for-the-badge&label=Views" /> <img src="https://img.shields.io/github/followers/Nico6719?style=for-the-badge&color=36BCF7&labelColor=1a1b27&logo=github" /> <img src="https://img.shields.io/github/stars/Nico6719?style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" />
+
 </div>
 
 <br/>
@@ -17,14 +22,13 @@
 
 </div>
 
-
 <br/>
 
 ## 📈 最近活跃趋势
 
 <div align="center">
 
-<img width="100%" src="https://ghactivity.mrayush.me/graph?username=Nico6719&theme=tokyonight&area=true&hide_border=true&radius=12" />
+<img width="100%" src="https://ghactivity.mrayush.me/graph?username=Nico6719&bg_color=1a1b27&color=c0caf5&title_color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&radius=12" />
 
 </div>
 
@@ -49,13 +53,5 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer" width="100%" />
 
 </div>
