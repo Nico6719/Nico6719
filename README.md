@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Nico6719&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
 
 <a href="https://github.com/Nico6719">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Minecraft+Bedrock+Server+Plugin+Development;JavaScript+%2F+TypeScript+%2F+Python+%2F+C%2B%2B;LeviLamina+%C2%B7+LSE+%C2%B7+Endstone" />
+
 </a>
 
 <br/>
