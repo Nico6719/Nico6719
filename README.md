@@ -8,8 +8,9 @@
 
 ### 📈 最近活跃趋势
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico6719&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://ghactivity.mrayush.me/graph?username=Nico6719&theme=react-dark&area=true&hide_border=true" />
 </p>
+
 
 ### 🛠 常用技术栈
 <p align="left">
