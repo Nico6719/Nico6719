@@ -1,4 +1,4 @@
-
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Nico6719&color=8A2BE2&style=for-the-badge&label=Views" />
 <img src="https://img.shields.io/github/followers/Nico6719?style=for-the-badge&color=36BCF7&labelColor=1a1b27&logo=github" />
