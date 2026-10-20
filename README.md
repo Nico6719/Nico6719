@@ -21,6 +21,6 @@
 </p>
 
 ---
-![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet )
+![Views](https://komarev.com/ghpvc/?username=Nico6719&color=blueviolet&v=2 )
 [![GitHub followers](https://img.shields.io/github/followers/Nico6719?style=social )](https://github.com/Nico6719 )
 [![GitHub stars](https://img.shields.io/github/stars/Nico6719?style=social )](https://github.com/Nico6719 )
